@@ -1,0 +1,1 @@
+Extração de Dadosde SlidesOrientador: KéziaAluno: Luiz Carlos de Lemos1. IntroduçãoExtração de Dados [PPTX]Extrair dados textuais de slides;Comparar com ferramentas existentes;Realizar o processor inverso:Criar slides a partir de dados fornecidos.

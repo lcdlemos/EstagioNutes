@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-8IgxS5t4lqF0WtCNcaEFJqauUb2G9",
+  "object": "chat.completion",
+  "created": 1699465726,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Slide 1: Capa\n(Título: Introdução à Computação)\n\n- Fundo: Imagem representativa da tecnologia ou do universo digital (por exemplo, circuitos eletrônicos, linhas de código, bytes ou um computador moderno).\n\n- Conteúdo:\n     1. Nome da Apresentação: Introdução à Computação\n     2. Nome do Apresentador: [Seu nome]\n     3. Data: [Data da apresentação]\n\n- Layout: Fontes limpas e legíveis com bom contraste em relação ao fundo, como Arial ou Calibri. Tamanhos de fonte e cores adequados para facilitar a leitura.\n\nObservações: \n- Incluir o logotipo ou nome da instituição ou empresa, se necessário.\n- Se preferir, adicionar um subtítulo com um slogan ou frase impactante relacionada à computação.\n- Evitar poluição visual, mantendo o design simples e limpo.\n- Usar cores que transmitam profissionalismo e despertem interesse.\n\nDica: Não se esqueça de revisar a ortografia e a gramática antes de prosseguir com os próximos slides!"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 24,
+    "completion_tokens": 256,
+    "total_tokens": 280
+  }
+}

@@ -1,0 +1,2 @@
+pesquisa das bibliotecas.
+a partir de texto, pesquisar imagens correlacionadas.
