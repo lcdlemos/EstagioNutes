@@ -10,7 +10,10 @@ Slide 2:
 
 Slide 3:
 - Título: Como funciona a Inteligência Artificial?
-- Explicação básica do funcionamento da IA, como redes neurais artificiais, algoritmos de aprendizado de máquina e processamento de dados
+- Explicação básica do funcionamento da IA:
+    - Redes neurais artificiais
+    - Algoritmos de aprendizado de máquina
+    - Processamento de dados
 - Imagem ilustrativa para auxiliar na explicação
 
 Slide 4:
