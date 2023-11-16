@@ -1,6 +1,6 @@
 Slide 1: Capa
 - Título: Introdução à Inteligência Artificial
-- Fundo: Imagem representativa da IA
+- Autor: Luiz Carlos de Lemos IA
 
 Slide 2:
 - Título: O que é Inteligência Artificial?
@@ -34,7 +34,8 @@ Slide 5:
     - Aplicações em áreas diversas
     - Impacto na sociedade e economia
 
-Slide 6: Conclusão
+Slide 6:
+- Título: Conclusão
 - Recapitulação dos pontos-chave abordados
 - Ênfase na importância e impacto da IA em nosso cotidiano
 - Convite para perguntas e discussões sobre o tema
