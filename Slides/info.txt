@@ -18,13 +18,21 @@ Slide 3:
 
 Slide 4:
 - Título: Benefícios e Desafios da Inteligência Artificial
-- Listagem dos principais benefícios da IA, como automação de tarefas, melhoria da eficiência, previsões precisas, entre outros
-- Destaque para os desafios, como privacidade, ética e impactos no mercado de trabalho
+- Listagem dos principais benefícios da IA:
+    - Automação de tarefas
+    - Melhoria da eficiência
+    - Previsões precisas
+- Destaque para os desafios:
+    - Privacidade
+    - Ética
+    - Impactos no mercado de trabalho
 
 Slide 5:
 - Título: Futuro da Inteligência Artificial
-- Perspectivas para o futuro da IA, como avanços tecnológicos, aplicações em áreas diversas, impacto na sociedade e economia
-- Inspirar a plateia a explorar e contribuir para o desenvolvimento da IA
+- Perspectivas para o futuro da IA:
+    - Avanços tecnológicos
+    - Aplicações em áreas diversas
+    - Impacto na sociedade e economia
 
 Slide 6: Conclusão
 - Recapitulação dos pontos-chave abordados
