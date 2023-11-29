@@ -1,31 +1,50 @@
 Slide 1: Capa
-- Título: Introdução à Inteligência Artificial
-- Fundo: Imagem representativa da IA
+- Título: Introdução à Eletrônica Digital
+- Autor: [Seu nome]
 
-Slide 2:
-- Título: O que é Inteligência Artificial?
-- Breve descrição da IA
-- Exemplos de aplicações da IA (assistente virtual, carros autônomos, reconhecimento facial, etc.)
-- Citação sobre a importância da IA na atualidade
+Slide 2: O que é Eletrônica Digital?
+- Título: O que é Eletrônica Digital?
+- Definição de Eletrônica Digital
+- Principais características da eletrônica digital
 
-Slide 3:
-- Título: Como funciona a Inteligência Artificial?
-- Explicação básica do funcionamento da IA, como redes neurais artificiais, algoritmos de aprendizado de máquina e processamento de dados
-- Imagem ilustrativa para auxiliar na explicação
+Slide 3: Sistemas de Numeração
+- Título: Sistemas de Numeração na Eletrônica Digital
+- Exploração dos sistemas decimal, binário e hexadecimal
+- Conversão entre diferentes sistemas de numeração
 
-Slide 4:
-- Título: Benefícios e Desafios da Inteligência Artificial
-- Listagem dos principais benefícios da IA, como automação de tarefas, melhoria da eficiência, previsões precisas, entre outros
-- Destaque para os desafios, como privacidade, ética e impactos no mercado de trabalho
+Slide 4: Portas Lógicas
+- Título: Portas Lógicas na Eletrônica Digital
+- Apresentação das portas lógicas AND, OR, NOT, NAND, NOR e XOR
+- Tabelas verdade e representação gráfica de cada porta
 
-Slide 5:
-- Título: Futuro da Inteligência Artificial
-- Perspectivas para o futuro da IA, como avanços tecnológicos, aplicações em áreas diversas, impacto na sociedade e economia
-- Inspirar a plateia a explorar e contribuir para o desenvolvimento da IA
+Slide 5: Circuitos Combinacionais
+- Título: Circuitos Combinacionais
+- Combinação de portas lógicas para criar circuitos mais complexos
+- Exemplos de projetos de circuitos combinacionais
 
-Slide 6: Conclusão
-- Recapitulação dos pontos-chave abordados
-- Ênfase na importância e impacto da IA em nosso cotidiano
-- Convite para perguntas e discussões sobre o tema
+Slide 6: Circuitos Sequenciais
+- Título: Circuitos Sequenciais
+- Introdução aos circuitos que possuem memória - flip-flops
+- Noções básicas de registradores e contadores
 
-Obs: Você pode adicionar imagens, gráficos ou dados relevantes aos slides, de acordo com o conteúdo que deseja apresentar.
+Slide 7: Aritmética Binária
+- Título: Aritmética Binária
+- Operações matemáticas com números binários
+- Adição, subtração, multiplicação e divisão binária
+
+Slide 8: Memória Digital
+- Título: Memória Digital na Eletrônica
+- Tipos de memória: ROM, RAM, EEPROM, entre outros
+- Aplicações e importância da memória digital
+
+Slide 9: Circuitos Integrados
+- Título: Circuitos Integrados
+- Conceitos básicos de circuitos integrados
+- Uso e vantagens dos CIs na eletrônica digital
+
+Slide 10: Conclusão
+- Título: Conclusão
+- Breve resumo dos principais pontos abordados
+- Importância da eletrônica digital na sociedade moderna
+
+Observação: Esta é uma sugestão de estrutura para a apresentação sobre eletrônica digital. Sinta-se à vontade para adicionar ou remover informações de acordo com suas necessidades e conhecimentos.

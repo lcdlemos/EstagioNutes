@@ -5,7 +5,10 @@ Slide 1: Capa
 Slide 2:
 - Título: O que é Inteligência Artificial?
 - Breve descrição da IA
-- Exemplos de aplicações da IA (assistente virtual, carros autônomos, reconhecimento facial, etc.)
+- Exemplos de aplicações da IA:
+    - Assistente virtual
+    - Carros autônomos
+    - Reconhecimento facial
 - Citação sobre a importância da IA na atualidade
 
 Slide 3:
