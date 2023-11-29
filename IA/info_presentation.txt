@@ -1,50 +1,59 @@
+Título: Introdução à Eletrônica Digital
+Autor: [Seu nome]
+
 Slide 1: Capa
 - Título: Introdução à Eletrônica Digital
 - Autor: [Seu nome]
 
 Slide 2: O que é Eletrônica Digital?
 - Título: O que é Eletrônica Digital?
-- Definição de Eletrônica Digital
-- Principais características da eletrônica digital
+- Definição de eletrônica digital
+- Diferença entre eletrônica analógica e digital
 
-Slide 3: Sistemas de Numeração
-- Título: Sistemas de Numeração na Eletrônica Digital
-- Exploração dos sistemas decimal, binário e hexadecimal
-- Conversão entre diferentes sistemas de numeração
+Slide 3: Sistemas Binários
+- Título: Sistemas Binários
+- Explicação do sistema binário
+- Representação de números em base 2
+- Conversão entre base 10 e base 2
 
 Slide 4: Portas Lógicas
-- Título: Portas Lógicas na Eletrônica Digital
-- Apresentação das portas lógicas AND, OR, NOT, NAND, NOR e XOR
-- Tabelas verdade e representação gráfica de cada porta
+- Título: Portas Lógicas
+- Definição de portas lógicas
+- Tipos de portas lógicas (AND, OR, NOT, XOR, etc.)
+- Tabela verdade das portas lógicas
 
-Slide 5: Circuitos Combinacionais
-- Título: Circuitos Combinacionais
-- Combinação de portas lógicas para criar circuitos mais complexos
-- Exemplos de projetos de circuitos combinacionais
+Slide 5: Álgebra de Boole
+- Título: Álgebra de Boole
+- Explicação da álgebra de Boole
+- Principais operações lógicas (AND, OR, NOT)
+- Leis de De Morgan
 
-Slide 6: Circuitos Sequenciais
-- Título: Circuitos Sequenciais
-- Introdução aos circuitos que possuem memória - flip-flops
-- Noções básicas de registradores e contadores
+Slide 6: Circuitos Lógicos
+- Título: Circuitos Lógicos
+- Descrição dos componentes de um circuito lógico
+- Diagramas de circuitos lógicos
+- Exemplos de aplicação de circuitos lógicos
 
-Slide 7: Aritmética Binária
-- Título: Aritmética Binária
-- Operações matemáticas com números binários
-- Adição, subtração, multiplicação e divisão binária
+Slide 7: Registradores e Flip-Flops
+- Título: Registradores e Flip-Flops
+- Introdução a registradores e flip-flops
+- Tipos de flip-flops (SR, JK, D, T)
+- Aplicações de flip-flops em circuitos sequenciais
 
-Slide 8: Memória Digital
-- Título: Memória Digital na Eletrônica
-- Tipos de memória: ROM, RAM, EEPROM, entre outros
-- Aplicações e importância da memória digital
+Slide 8: Contadores Digitais
+- Título: Contadores Digitais
+- Conceito de contadores digitais
+- Tipos de contadores (síncronos e assíncronos)
+- Exemplos de aplicação de contadores
 
-Slide 9: Circuitos Integrados
-- Título: Circuitos Integrados
-- Conceitos básicos de circuitos integrados
-- Uso e vantagens dos CIs na eletrônica digital
+Slide 9: Memórias Digitais
+- Título: Memórias Digitais
+- Introdução a memórias digitais (RAM, ROM, EEPROM)
+- Funcionamento e características das memórias digitais
+- Aplicações de memórias digitais em sistemas eletrônicos
 
 Slide 10: Conclusão
 - Título: Conclusão
-- Breve resumo dos principais pontos abordados
-- Importância da eletrônica digital na sociedade moderna
-
-Observação: Esta é uma sugestão de estrutura para a apresentação sobre eletrônica digital. Sinta-se à vontade para adicionar ou remover informações de acordo com suas necessidades e conhecimentos.
+- Recapitulação dos principais pontos abordados
+- Importância da eletrônica digital na tecnologia atual
+- Referências utilizadas
