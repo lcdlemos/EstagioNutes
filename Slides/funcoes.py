@@ -66,7 +66,7 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
                     topo = Inches(4.5)
                     adiciona_imagem = slide.shapes.add_picture(img, esquerda, topo)
                 else:
-                    busca = "artificial intelligence"
+                    busca = "beach"
                     requisicao = requests.get(f"https://api.unsplash.com/search/photos?client_id={id_key}&query={busca}")
                     resposta = requisicao.json()
                     url_image = resposta['results'][0]['urls']['small']

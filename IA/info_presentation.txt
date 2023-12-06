@@ -1,59 +1,35 @@
-Slide 1 (Capa):
-- Título: Introdução à Eletrônica Digital
-- Autor: [Seu nome]
+Slide 1 - Capa:
+Título: Inteligência Artificial
+Autor: Kézia
 
 Slide 2:
-- Título: O que é Eletrônica Digital?
-- Introdução ao tema
-- Definição de eletrônica digital
-- Importância da eletrônica digital no mundo moderno
+Título: O que é Inteligência Artificial?
+- Definição de Inteligência Artificial
+- Capacidade de simular o pensamento humano através de algoritmos e sistemas computacionais
 
 Slide 3:
-- Título: Sinais Digitais e Sinais Analógicos
-- Diferença entre sinais digitais e analógicos
-- Características dos sinais digitais
-- Vantagens dos sinais digitais
+Título: Aplicações da Inteligência Artificial
+- Setor de Saúde: diagnóstico médico, pesquisa de medicamentos
+- Setor Automobilístico: carros autônomos
+- Setor Financeiro: análise de risco, detecção de fraudes
+- Setor de Varejo: recomendação de produtos, atendimento ao cliente
 
 Slide 4:
-- Título: Sistemas Digitais
-- Explicação sobre sistemas digitais
-- Exemplos de sistemas digitais comuns (computadores, celulares, etc.)
-- Benefícios dos sistemas digitais
+Título: Algoritmos de Inteligência Artificial
+- Aprendizado de Máquina (Machine Learning)
+- Redes Neurais Artificiais
+- Processamento de Linguagem Natural
+- Visão Computacional
 
 Slide 5:
-- Título: Componentes Básicos da Eletrônica Digital
-- Introdução aos principais componentes da eletrônica digital
-- Tabela com componentes básicos (transistores, diodos, resistores, etc.)
-- Função de cada componente na eletrônica digital
+Título: Benefícios e Desafios
+- Benefícios: automação de tarefas, aumento da eficiência, criação de soluções inovadoras
+- Desafios: viés nas decisões, falta de transparência, privacidade e segurança dos dados
 
 Slide 6:
-- Título: Portas Lógicas
-- Explicação sobre o conceito de portas lógicas
-- Tipos de portas lógicas (AND, OR, NOT, XOR, NAND, NOR)
-- Exemplificação das portas lógicas através de diagramas
+Título: Impacto da Inteligência Artificial no Futuro
+- Transformação de diversos setores da economia
+- Novos empregos e necessidade de reskilling
+- Adaptação da sociedade à presença da IA
 
-Slide 7:
-- Título: Circuitos Combinacionais
-- Definição de circuitos combinacionais
-- Exemplos de circuitos combinacionais (decodificadores, multiplexadores, somadores)
-- Utilização de circuitos combinacionais na eletrônica digital
-
-Slide 8:
-- Título: Circuitos Sequenciais
-- Explicação sobre circuitos sequenciais
-- Tipos de circuitos sequenciais (flip-flops, contadores, registradores)
-- Aplicações dos circuitos sequenciais
-
-Slide 9:
-- Título: Microcontroladores
-- Descrição de microcontroladores
-- Vantagens e aplicações dos microcontroladores
-- Exemplos de microcontroladores famosos (Arduino, PIC, STM32)
-
-Slide 10:
-- Título: Conclusão
-- Recapitulação dos principais pontos abordados
-- Importância da eletrônica digital na tecnologia atual
-- Referências utilizadas na apresentação
-
-Observação: Por ser um modelo, é possível adicionar ou remover tópicos de acordo com a necessidade.
+Observação: Essa é apenas uma sugestão de estrutura para a apresentação. Sinta-se à vontade para adaptar e adicionar informações conforme necessário.
