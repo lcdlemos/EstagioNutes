@@ -1,5 +1,10 @@
 from pptx.util import Inches
 import os
+import requests
+import json
+from idkey import id_key
+import urllib.request
+from PIL import Image
 
 def contar_slides(nome_arquivo):
     with open(nome_arquivo, "r", encoding="utf-8") as arquivo:
@@ -54,12 +59,25 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
                 topico.text = topicos[j].strip("    -""\n")
                 topico.level = 1
             elif "Imagem" in topicos[j]:
-                # imagem = r"C:\Users\Luiz Carlos\Documents\UEPB\Estágio\Slides\ia.jpg"
-                # if os.path.isfile(imagem):
-                img1 = "ia.jpg"
-                esquerda = Inches(3)
-                topo = Inches(4.5)
-                adiciona_imagem = slide.shapes.add_picture(img1, esquerda, topo)
+                imagem = r"C:\Users\Luiz Carlos\Documents\UEPB\Estágio\Slides\ia.jpg"
+                if os.path.isfile(imagem):
+                    img = "ia.jpg"
+                    esquerda = Inches(3)
+                    topo = Inches(4.5)
+                    adiciona_imagem = slide.shapes.add_picture(img, esquerda, topo)
+                else:
+                    busca = "artificial intelligence"
+                    requisicao = requests.get(f"https://api.unsplash.com/search/photos?client_id={id_key}&query={busca}")
+                    resposta = requisicao.json()
+                    url_image = resposta['results'][0]['urls']['small']
+                    urllib.request.urlretrieve(url_image, "./imagem_url.jpeg")
+                    ima = Image.open("imagem_url.jpeg")
+                    ima = ima.resize((300, 200))
+                    ima.save("imagem_url.jpeg")
+                    img = "imagem_url.jpeg"
+                    esquerda = Inches(3)
+                    topo = Inches(4.5)
+                    adiciona_imagem = slide.shapes.add_picture(img, esquerda, topo)
             else:
                 topico = caixa_topico.text_frame.add_paragraph()
                 topico.text = topicos[j].strip("- ""\n")
