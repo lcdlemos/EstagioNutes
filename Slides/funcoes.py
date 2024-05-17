@@ -5,6 +5,7 @@ import json
 from idkey import id_key
 import urllib.request
 from PIL import Image
+from senha import API_KEY
 
 def contar_slides(nome_arquivo):
     with open(nome_arquivo, "r", encoding="utf-8") as arquivo:
@@ -66,11 +67,29 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
                     topo = Inches(4.5)
                     adiciona_imagem = slide.shapes.add_picture(img, esquerda, topo)
                 else:
-                    busca = "beach"
-                    requisicao = requests.get(f"https://api.unsplash.com/search/photos?client_id={id_key}&query={busca}")
+                    #BUSCA NO UNSPLASH
+                    #busca = "beach"
+                    #requisicao = requests.get(f"https://api.unsplash.com/search/photos?client_id={id_key}&query={busca}")
+                    
+                    headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
+                    id_modelo = "dall-e-3"
+                    link = "https://api.openai.com/v1/images/generations"
+
+                    body_message = {
+                        "model": id_modelo,
+                        "prompt": "Inteligência Artificial em Tons de Verde",
+                        "n": 1,
+                        "size": "1024x1024",
+                    }
+
+                    body_message = json.dumps(body_message)
+                    requisicao = requests.post(link, headers=headers, data=body_message)
+
                     resposta = requisicao.json()
-                    url_image = resposta['results'][0]['urls']['small']
+                    #url_image = resposta['results'][0]['urls']['small']
+                    url_image = resposta['data'][0]['url']
                     urllib.request.urlretrieve(url_image, "./imagem_url.jpeg")
+                    
                     ima = Image.open("imagem_url.jpeg")
                     ima = ima.resize((300, 200))
                     ima.save("imagem_url.jpeg")

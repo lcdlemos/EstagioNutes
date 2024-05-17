@@ -1,35 +1,53 @@
-Slide 1 - Capa:
-Título: Inteligência Artificial
-Autor: Kézia
+Slide 1:
+Título: "São João: A festa popular mais animada do Brasil"
+Autor: Luiz Gonzaga
 
 Slide 2:
-Título: O que é Inteligência Artificial?
-- Definição de Inteligência Artificial
-- Capacidade de simular o pensamento humano através de algoritmos e sistemas computacionais
+Título: Origem da festa de São João
+- Explicação sobre a origem da festa de São João
+- Influência das tradições europeias e indígenas
 
 Slide 3:
-Título: Aplicações da Inteligência Artificial
-- Setor de Saúde: diagnóstico médico, pesquisa de medicamentos
-- Setor Automobilístico: carros autônomos
-- Setor Financeiro: análise de risco, detecção de fraudes
-- Setor de Varejo: recomendação de produtos, atendimento ao cliente
+Título: Tradições e símbolos de São João
+- Fogueiras
+- Quadrilhas
+- Comidas típicas (milho, canjica, pé de moleque)
+- Bandeirinhas coloridas
 
 Slide 4:
-Título: Algoritmos de Inteligência Artificial
-- Aprendizado de Máquina (Machine Learning)
-- Redes Neurais Artificiais
-- Processamento de Linguagem Natural
-- Visão Computacional
+Título: O papel da música de Luiz Gonzaga na festa de São João
+- Importância das músicas de Luiz Gonzaga na celebração
+- Principais sucessos do "Rei do Baião" para animar a festa
 
 Slide 5:
-Título: Benefícios e Desafios
-- Benefícios: automação de tarefas, aumento da eficiência, criação de soluções inovadoras
-- Desafios: viés nas decisões, falta de transparência, privacidade e segurança dos dados
+Título: Festas de São João pelo Brasil
+- Diferentes formas de celebrar o São João em todo o país
+- Destaques para as festas de Campina Grande, Caruaru e outras regiões
 
 Slide 6:
-Título: Impacto da Inteligência Artificial no Futuro
-- Transformação de diversos setores da economia
-- Novos empregos e necessidade de reskilling
-- Adaptação da sociedade à presença da IA
+Título: São João para todas as idades
+- Atividades para crianças
+- Festejos para os jovens
+- Programação para os idosos
 
-Observação: Essa é apenas uma sugestão de estrutura para a apresentação. Sinta-se à vontade para adaptar e adicionar informações conforme necessário.
+Slide 7:
+Título: São João: Economia e turismo
+- Impacto econômico da festa de São João
+- Atrativos turísticos durante as festas juninas
+
+Slide 8:
+Título: São João e as manifestações culturais
+- Relação entre São João e as culturas regionais do Brasil
+- Diversidade de manifestações culturais durante as festas juninas
+
+Slide 9:
+Título: Importância da preservação das tradições de São João
+- Necessidade de preservar as tradições juninas
+- Valorização da cultura popular e das festas típicas
+
+Slide 10:
+Título: Conclusão
+- Celebração da festa de São João como parte importante da cultura brasileira
+- A importância de manter viva a tradição das festas juninas em todo o país
+
+[Incluir imagem de Luiz Gonzaga e de uma típica festa de São João]
