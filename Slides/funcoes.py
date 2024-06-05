@@ -31,7 +31,11 @@ def coletar_titulos(texto):
     titulos = []
     for linha in texto:
         if "Título" in linha:
-            titulos.append(linha)
+            titulos.append(linha.lstrip("- Título: ").rstrip("\n"))
+    if titulos == []:
+        for linha in texto:
+            if "Slide" in linha:
+                titulos.append(linha.lstrip("Slide ").rstrip("\n"))
     return titulos
 
 def coletar_topicos(texto):
@@ -49,7 +53,8 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
         modelo_slide = auto_apresentacao.slide_layouts[1]
         slide = auto_apresentacao.slides.add_slide(modelo_slide)
         titulo = slide.shapes.title
-        titulo.text = titulos[i+1].lstrip("- Título: ").rstrip("\n")
+        #titulo.text = titulos[i+1].lstrip("- Título: ").rstrip("\n")
+        titulo.text = titulos[i+1]
         caixa_topicos = slide.shapes
         caixa_topico = caixa_topicos.placeholders[1]
         caixa_topico.text = topicos[j].strip("- ""\n")
@@ -77,7 +82,7 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
 
                     body_message = {
                         "model": id_modelo,
-                        "prompt": "Inteligência Artificial em Tons de Verde",
+                        "prompt": "Inteligência Artificial",
                         "n": 1,
                         "size": "1024x1024",
                     }

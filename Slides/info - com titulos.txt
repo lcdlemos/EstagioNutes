@@ -1,7 +1,9 @@
-Slide 1: Introdução à Inteligência Artificial
+Slide 1: Capa
+- Título: Introdução à Inteligência Artificial
 - Autor: Luiz Carlos de Lemos IA
 
-Slide 2: O que é Inteligência Artificial?
+Slide 2:
+- Título: O que é Inteligência Artificial?
 - Breve descrição da IA
 - Exemplos de aplicações da IA:
     - Assistente virtual
@@ -9,14 +11,16 @@ Slide 2: O que é Inteligência Artificial?
     - Reconhecimento facial
 - Citação sobre a importância da IA na atualidade
 
-Slide 3: Como funciona a Inteligência Artificial?
+Slide 3:
+- Título: Como funciona a Inteligência Artificial?
 - Explicação básica do funcionamento da IA:
     - Redes neurais artificiais
     - Algoritmos de aprendizado de máquina
     - Processamento de dados
 - Depois colocar ilustrativa para auxiliar na explicação
 
-Slide 4: Benefícios e Desafios da Inteligência Artificial
+Slide 4:
+- Título: Benefícios e Desafios da Inteligência Artificial
 - Listagem dos principais benefícios da IA:
     - Automação de tarefas
     - Melhoria da eficiência
@@ -26,13 +30,15 @@ Slide 4: Benefícios e Desafios da Inteligência Artificial
     - Ética
     - Impactos no mercado de trabalho
 
-Slide 5: Futuro da Inteligência Artificial
+Slide 5:
+- Título: Futuro da Inteligência Artificial
 - Perspectivas para o futuro da IA:
     - Avanços tecnológicos
     - Aplicações em áreas diversas
     - Impacto na sociedade e economia
 
-Slide 6: Conclusão
+Slide 6:
+- Título: Conclusão
 - Recapitulação dos pontos-chave abordados
 - Ênfase na importância e impacto da IA em nosso cotidiano
 - Convite para perguntas e discussões sobre o tema

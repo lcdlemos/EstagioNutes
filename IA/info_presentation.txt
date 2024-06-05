@@ -1,53 +1,56 @@
-Slide 1:
-Título: "São João: A festa popular mais animada do Brasil"
-Autor: Luiz Gonzaga
+Slide 1: Capa
+Hematologia
+Autor: Sangue Bom
 
-Slide 2:
-Título: Origem da festa de São João
-- Explicação sobre a origem da festa de São João
-- Influência das tradições europeias e indígenas
+Slide 2: Introdução
+- O que é Hematologia?
+- Estudo dos componentes do sangue e dos distúrbios que afetam a sua produção e função.
 
-Slide 3:
-Título: Tradições e símbolos de São João
-- Fogueiras
-- Quadrilhas
-- Comidas típicas (milho, canjica, pé de moleque)
-- Bandeirinhas coloridas
+Slide 3: Componentes do sangue
+- Hemácias (glóbulos vermelhos)
+- Leucócitos (glóbulos brancos)
+- Plaquetas
 
-Slide 4:
-Título: O papel da música de Luiz Gonzaga na festa de São João
-- Importância das músicas de Luiz Gonzaga na celebração
-- Principais sucessos do "Rei do Baião" para animar a festa
+Slide 4: Hemácias
+- Responsáveis pelo transporte de oxigênio pelo corpo
+- Anemia: baixa concentração de hemoglobina
 
-Slide 5:
-Título: Festas de São João pelo Brasil
-- Diferentes formas de celebrar o São João em todo o país
-- Destaques para as festas de Campina Grande, Caruaru e outras regiões
+Slide 5: Leucócitos
+- Defesa do organismo contra infecções
+- Tipos: neutrófilos, linfócitos, monócitos, eosinófilos e basófilos
 
-Slide 6:
-Título: São João para todas as idades
-- Atividades para crianças
-- Festejos para os jovens
-- Programação para os idosos
+Slide 6: Plaquetas
+- Coagulação sanguínea
+- Importantes na cicatrização de ferimentos
 
-Slide 7:
-Título: São João: Economia e turismo
-- Impacto econômico da festa de São João
-- Atrativos turísticos durante as festas juninas
+Slide 7: Distúrbios hematológicos
+- Anemias
+- Leucemias
+- Hemofilia
+- Trombocitopenia
 
-Slide 8:
-Título: São João e as manifestações culturais
-- Relação entre São João e as culturas regionais do Brasil
-- Diversidade de manifestações culturais durante as festas juninas
+Slide 8: Exemplo: Anemia
+- Imagem mostrando uma redução no número de hemácias
+- Principais sintomas e tratamentos
 
-Slide 9:
-Título: Importância da preservação das tradições de São João
-- Necessidade de preservar as tradições juninas
-- Valorização da cultura popular e das festas típicas
+Slide 9: Exemplo: Leucemia
+- Imagem mostrando um aumento descontrolado de leucócitos
+- Tipos de leucemia e tratamentos disponíveis
 
-Slide 10:
-Título: Conclusão
-- Celebração da festa de São João como parte importante da cultura brasileira
-- A importância de manter viva a tradição das festas juninas em todo o país
+Slide 10: Tratamento em Hematologia
+- Transfusões de sangue
+- Quimioterapia
+- Transplante de medula óssea
 
-[Incluir imagem de Luiz Gonzaga e de uma típica festa de São João]
+Slide 11: Prevenção de doenças hematológicas
+- Dieta rica em ferro e vitaminas
+- Prática de atividades físicas
+- Evitar consumo excessivo de álcool e tabaco
+
+Slide 12: Conclusão
+- A Hematologia é uma área fundamental para o diagnóstico e tratamento de doenças do sangue
+- Manter hábitos saudáveis e fazer exames de rotina são essenciais para a prevenção de problemas hematológicos 
+
+
+Slide 13: Agradecimentos
+- Agradeço a atenção de todos. Obrigado!

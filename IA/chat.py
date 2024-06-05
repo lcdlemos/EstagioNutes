@@ -2,8 +2,9 @@ from senha import API_KEY
 import requests
 import json
 
-def askGPT(tema, quantidade, autor):
-    pergunta = f"Faça uma apresentação sobre {tema} com {quantidade} slides incluindo capa. Na capa, identifique o título e autor com nome de {autor}. Nos demais slides, além dos tópicos, identifique o título."
+# def askGPT(tema, quantidade, autor):
+def askGPT(tema, autor):
+    pergunta = f"Como professor universitário, crie uma apresentação sobre {tema}. O slide 1 da apresentação deve ser a capa com o título {tema} e o nome do autor {autor}. O último slide deve ser a conclusão. Cada slide deve conter um rótulo identificando o título. Devem ser inseridas imagens nos casos que houver exemplos."
 
     headers = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
     id_modelo = "gpt-3.5-turbo"
