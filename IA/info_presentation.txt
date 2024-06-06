@@ -1,56 +1,113 @@
-Slide 1: Capa
-Hematologia
-Autor: Sangue Bom
+Slide 0: 
+Título: Compiladores
+Autor: Kézia Vasconcelos
 
-Slide 2: Introdução
-- O que é Hematologia?
-- Estudo dos componentes do sangue e dos distúrbios que afetam a sua produção e função.
+Slide 1:
+Título: Introdução
+Tópicos:
+- Definição de compiladores
+- Importância na programação
+- Processo de compilação
 
-Slide 3: Componentes do sangue
-- Hemácias (glóbulos vermelhos)
-- Leucócitos (glóbulos brancos)
-- Plaquetas
+Slide 2:
+Título: Fases de um compilador
+Tópicos:
+- Análise léxica
+- Análise sintática
+- Análise semântica
+- Geração de código intermediário
+- Otimização de código
+- Geração de código final
 
-Slide 4: Hemácias
-- Responsáveis pelo transporte de oxigênio pelo corpo
-- Anemia: baixa concentração de hemoglobina
+Slide 3:
+Título: Análise léxica
+Tópicos:
+- Identificação de tokens
+- Remoção de espaços em branco e comentários
+- Geração do código interno
 
-Slide 5: Leucócitos
-- Defesa do organismo contra infecções
-- Tipos: neutrófilos, linfócitos, monócitos, eosinófilos e basófilos
+Slide 4:
+Título: Análise sintática
+Tópicos:
+- Verificação da estrutura gramatical
+- Construção da árvore sintática
+- Detecção de erros sintáticos
 
-Slide 6: Plaquetas
-- Coagulação sanguínea
-- Importantes na cicatrização de ferimentos
+Slide 5:
+Título: Análise semântica
+Tópicos:
+- Verificação de tipos de dados
+- Resolução de ambiguidades
+- Verificação de escopo de variáveis
 
-Slide 7: Distúrbios hematológicos
-- Anemias
-- Leucemias
-- Hemofilia
-- Trombocitopenia
+Slide 6:
+Título: Geração de código intermediário
+Tópicos:
+- Representação intermédia
+- Facilita a otimização do código
+- Ponte entre as fases de análise e de geração de código final
 
-Slide 8: Exemplo: Anemia
-- Imagem mostrando uma redução no número de hemácias
-- Principais sintomas e tratamentos
+Slide 7:
+Título: Otimização de código
+Tópicos:
+- Melhoria da eficiência do código
+- Redução de redundâncias
+- Exemplo de otimizações comuns
 
-Slide 9: Exemplo: Leucemia
-- Imagem mostrando um aumento descontrolado de leucócitos
-- Tipos de leucemia e tratamentos disponíveis
+Slide 8:
+Título: Geração de código final
+Tópicos:
+- Tradução do código intermediário para a linguagem de máquina
+- Uso de registradores e instruções específicas
+- Produção do executável final
 
-Slide 10: Tratamento em Hematologia
-- Transfusões de sangue
-- Quimioterapia
-- Transplante de medula óssea
+Slide 9:
+Título: Exemplos de compiladores
+Tópicos:
+- GCC (GNU Compiler Collection)
+- Clang
+- Visual Studio Compiler
 
-Slide 11: Prevenção de doenças hematológicas
-- Dieta rica em ferro e vitaminas
-- Prática de atividades físicas
-- Evitar consumo excessivo de álcool e tabaco
+Slide 10:
+Título: Ferramentas auxiliares
+Tópicos:
+- IDEs (Ambientes de Desenvolvimento Integrado)
+- Depuradores (debuggers)
+- Perfis de desempenho (profilers)
 
-Slide 12: Conclusão
-- A Hematologia é uma área fundamental para o diagnóstico e tratamento de doenças do sangue
-- Manter hábitos saudáveis e fazer exames de rotina são essenciais para a prevenção de problemas hematológicos 
+Slide 11:
+Título: Desafios na construção de compiladores
+Tópicos:
+- Lidar com ambiguidades na linguagem
+- Otimização de código eficiente
+- Suporte a múltiplas plataformas
 
+Slide 12:
+Título: Futuro dos compiladores
+Tópicos:
+- Avanços em otimização de código
+- Aumento da integração com IDEs
+- Suporte a novas linguagens de programação
 
-Slide 13: Agradecimentos
-- Agradeço a atenção de todos. Obrigado!
+Slide 13:
+Título: Conclusão
+Tópicos:
+- Compiladores desempenham papel fundamental na programação
+- Processo de compilação é complexo e exige várias etapas
+- Importância de conhecer o funcionamento dos compiladores para programadores
+
+Slide 14:
+Título: Referências
+Tópicos:
+- Livros sobre compiladores
+- Artigos acadêmicos
+- Sites especializados em programação e compiladores
+
+Slide 15:
+Título: Perguntas
+Tópicos:
+- Momento para esclarecer dúvidas
+- Discussão sobre o tema
+- Agradecimentos. 
+
+OBS: Você mesmo poderá inserir as imagens ilustrativas em cada slide.

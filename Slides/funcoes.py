@@ -23,8 +23,12 @@ def criar_capa(auto_apresentacao, texto):
     slide = auto_apresentacao.slides.add_slide(modelo_slide)
     titulo = slide.shapes.title
     subtitulo = slide.placeholders[1]
-    titulo.text = texto[1].lstrip("- Título: ").rstrip("\n")
-    subtitulo.text = texto[2].strip("\n")
+    if "Título" in texto[1]:
+        titulo.text = texto[1].lstrip("- Título: ").rstrip("\n")
+        subtitulo.text = texto[2].strip("\n")
+    else:
+        titulo.text = texto[0].lstrip("Slide 0: ").rstrip("\n")
+        subtitulo.text = texto[1].strip("\n")
     return slide
 
 def coletar_titulos(texto):
@@ -82,7 +86,7 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
 
                     body_message = {
                         "model": id_modelo,
-                        "prompt": "Inteligência Artificial",
+                        "prompt": titulos[i],
                         "n": 1,
                         "size": "1024x1024",
                     }

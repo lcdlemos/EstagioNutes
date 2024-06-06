@@ -17,7 +17,7 @@ Slide 3:
     - Redes neurais artificiais
     - Algoritmos de aprendizado de máquina
     - Processamento de dados
-- Depois colocar ilustrativa para auxiliar na explicação
+- Imagem
 
 Slide 4:
 - Título: Benefícios e Desafios da Inteligência Artificial
