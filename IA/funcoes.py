@@ -48,7 +48,7 @@ def coletar_titulos(texto):
 def coletar_topicos(texto):
     topicos = []
     for topico in texto:
-        if "- " in topico and "Título" not in topico and "Autor:" not in topico or "\n" == topico:
+        if "- " in topico or "Imagem" in topico and "Título" not in topico and "Autor:" not in topico or "\n" == topico:
             topicos.append(topico)
     topicos.append("\n")
     return topicos
@@ -101,10 +101,10 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
                     url_image = resposta['data'][0]['url']
                     urllib.request.urlretrieve(url_image, "./imagem_url.jpeg")
                     
-                    ima = Image.open("imagem_url.jpeg")
+                    ima = Image.open(f"imagem_url{i}.jpeg")
                     ima = ima.resize((300, 200))
-                    ima.save("imagem_url.jpeg")
-                    img = "imagem_url.jpeg"
+                    ima.save(f"imagem_url{i}.jpeg")
+                    img = f"imagem_url{i}.jpeg"
                     esquerda = Inches(3)
                     topo = Inches(4.5)
                     adiciona_imagem = slide.shapes.add_picture(img, esquerda, topo)

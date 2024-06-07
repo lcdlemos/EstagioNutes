@@ -1,38 +1,88 @@
-Slide 0: Introdução à Inteligência Artificial
-- Autor: Luiz Carlos de Lemos IA
+Slide 0: Compiladores
+- Autor: Kézia Vasconcelos
 
-Slide 1: O que é Inteligência Artificial?
-- Breve descrição da IA
-- Exemplos de aplicações da IA:
-    - Assistente virtual
-    - Carros autônomos
-    - Reconhecimento facial
-- Citação sobre a importância da IA na atualidade
+Slide 1: O que é um Compilador?
+- Definição de Compilador
+    - Programa que traduz código fonte de uma linguagem de programação para uma linguagem de máquina.
+- Importância dos Compiladores
+    - Facilita a execução de programas em diferentes plataformas.
 
-Slide 2: Como funciona a Inteligência Artificial?
-- Explicação básica do funcionamento da IA:
-    - Redes neurais artificiais
-    - Algoritmos de aprendizado de máquina
-    - Processamento de dados
-- Imagem
+Slide 2: Etapas da Compilação
+- Análise Léxica
+    - Tokenização do código fonte.
+- Análise Sintática
+    - Construção da árvore sintática.
+- Análise Semântica
+    - Verificação de tipos e contextos.
 
-Slide 3: Benefícios e Desafios da Inteligência Artificial
-- Listagem dos principais benefícios da IA:
-    - Automação de tarefas
-    - Melhoria da eficiência
-    - Previsões precisas
-- Destaque para os desafios:
-    - Privacidade
-    - Ética
-    - Impactos no mercado de trabalho
+Slide 2: Etapas da Compilação
+- Otimização
+    - Melhoria do desempenho do código.
+- Geração de Código
+    - Produção de código de máquina.
+- Linkagem
+    - Combinação de diferentes módulos.
 
-Slide 4: Futuro da Inteligência Artificial
-- Perspectivas para o futuro da IA:
-    - Avanços tecnológicos
-    - Aplicações em áreas diversas
-    - Impacto na sociedade e economia
+Slide 3: Análise Léxica
+- Definição
+    - Converte a sequência de caracteres em tokens.
+- Ferramentas Comuns
+    - Lex, Flex.
 
-Slide 5: Conclusão
-- Recapitulação dos pontos-chave abordados
-- Ênfase na importância e impacto da IA em nosso cotidiano
-- Convite para perguntas e discussões sobre o tema
+Slide 4: Análise Sintática
+- Definição
+    - Análise da estrutura gramatical dos tokens.
+- Exemplos de Algoritmos
+    - Análise Ascendente (Shift-Reduce), Análise Descendente (Recursiva).
+
+Slide 5: Análise Semântica
+- Definição
+    - Verificação de significados e contextos.
+- Tabelas de Símbolos
+    - Armazenamento de informações sobre variáveis e funções.
+
+Slide 6: Otimização de Código
+- Definição
+    - Melhoria do código gerado para melhor desempenho.
+- Tipos de Otimização
+    - Local, Global, Loop Optimization.
+Imagem
+
+Slide 7: Geração de Código
+- Definição
+    - Conversão de código intermediário para código de máquina.
+- Exemplos de Técnicas
+    - Seleção de instruções, Alocação de registradores.
+
+Slide 8: Linkagem
+- Definição
+    - Combinação de diferentes módulos de código.
+- Tipos de Linkagem
+    - Estática, Dinâmica.
+Imagem
+
+Slide 9: Compiladores Famosos
+- GCC (GNU Compiler Collection)
+    - Suporte para diversas linguagens como C, C++, Fortran.
+- Clang
+    - Parte do projeto LLVM, conhecida por sua modularidade e otimizações.
+- Java Compiler (javac)
+    - Compilador para a linguagem de programação Java.
+
+Slide 10: Futuro dos Compiladores
+- Tendências
+    - Compiladores Just-In-Time (JIT)
+    - Compiladores para linguagens específicas de domínio (DSLs)
+- Desafios
+    - Suporte a novas arquiteturas de hardware
+    - Otimizações avançadas.
+
+Slide 11: Conclusão
+- Recapitulação
+    - Importância dos compiladores no desenvolvimento de software.
+- Perspectivas
+    - Continuação da evolução dos compiladores para atender às novas demandas da indústria.
+
+Slide 12: Perguntas?
+- Abertura para perguntas e discussão.
+Imagem

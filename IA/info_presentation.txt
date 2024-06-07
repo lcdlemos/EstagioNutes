@@ -1,113 +1,103 @@
 Slide 0: 
-Título: Compiladores
-Autor: Kézia Vasconcelos
+Título: NFL - National Football League
+Autor: Tom Brady
 
-Slide 1:
-Título: Introdução
+Slide 1: 
+Título: O que é a NFL?
 Tópicos:
-- Definição de compiladores
-- Importância na programação
-- Processo de compilação
+- A NFL é a principal liga de futebol americano dos Estados Unidos
+- Fundada em 1920, é atualmente composta por 32 times
+- A liga é dividida em duas conferências: a National Football Conference (NFC) e a American Football Conference (AFC)
 
-Slide 2:
-Título: Fases de um compilador
+Slide 2: 
+Título: História da NFL
 Tópicos:
-- Análise léxica
-- Análise sintática
-- Análise semântica
-- Geração de código intermediário
-- Otimização de código
-- Geração de código final
+- A NFL teve origem a partir da American Professional Football Association, fundada em 1920
+- O Super Bowl, final da NFL, é um dos eventos esportivos mais assistidos do mundo
+- Grandes jogadores e times marcaram a história da liga, como os Green Bay Packers e Dallas Cowboys
 
-Slide 3:
-Título: Análise léxica
+Slide 3: 
+Título: Principais posições de um time na NFL
 Tópicos:
-- Identificação de tokens
-- Remoção de espaços em branco e comentários
-- Geração do código interno
+- Quarterback
+- Running back
+- Wide receiver
+Imagem
 
-Slide 4:
-Título: Análise sintática
+Slide 4: 
+Título: O papel do Quarterback na NFL
 Tópicos:
-- Verificação da estrutura gramatical
-- Construção da árvore sintática
-- Detecção de erros sintáticos
+- O quarterback é o líder do ataque de um time
+- É responsável por lançar a bola para os recebedores e tomar as decisões táticas durante o jogo
+- Grandes quarterbacks da história da NFL incluem Tom Brady, Peyton Manning e Joe Montana
 
-Slide 5:
-Título: Análise semântica
+Slide 5: 
+Título: Curiosidades sobre a NFL
 Tópicos:
-- Verificação de tipos de dados
-- Resolução de ambiguidades
-- Verificação de escopo de variáveis
+- O New England Patriots é o time com mais títulos de Super Bowl na história da liga
+- O Troféu Vince Lombardi é entregue ao campeão do Super Bowl
+- O Draft da NFL é o evento onde os times selecionam novos jogadores para seus elencos
 
-Slide 6:
-Título: Geração de código intermediário
+Slide 6: 
+Título: Os estádios da NFL
 Tópicos:
-- Representação intermédia
-- Facilita a otimização do código
-- Ponte entre as fases de análise e de geração de código final
+- A NFL conta com estádios icônicos, como o Lambeau Field, casa dos Green Bay Packers
+- Alguns estádios modernos contam com tecnologia de ponta e capacidade para dezenas de milhares de torcedores
+Imagem
 
-Slide 7:
-Título: Otimização de código
+Slide 7: 
+Título: O Pro Bowl
 Tópicos:
-- Melhoria da eficiência do código
-- Redução de redundâncias
-- Exemplo de otimizações comuns
+- O Pro Bowl é o jogo das estrelas da NFL, onde os melhores jogadores da temporada se enfrentam
+- O evento é realizado na semana anterior ao Super Bowl
+- O Pro Bowl tem formatos diferentes ao longo dos anos, buscando sempre aumentar o interesse dos fãs
 
-Slide 8:
-Título: Geração de código final
+Slide 8: 
+Título: As rivalidades na NFL
 Tópicos:
-- Tradução do código intermediário para a linguagem de máquina
-- Uso de registradores e instruções específicas
-- Produção do executável final
+- Rivalidades históricas como Green Bay Packers vs. Chicago Bears e Pittsburgh Steelers vs. Baltimore Ravens
+- Os jogos entre times da mesma divisão costumam ser os mais intensos
+- As rivalidades na NFL contribuem para o espírito competitivo e a paixão dos torcedores
 
-Slide 9:
-Título: Exemplos de compiladores
+Slide 9: 
+Título: A importância dos treinadores na NFL
 Tópicos:
-- GCC (GNU Compiler Collection)
-- Clang
-- Visual Studio Compiler
+- Os treinadores de um time são responsáveis por desenvolver estratégias, organizar treinos e motivar os jogadores
+- Grandes nomes como Bill Belichick, Vince Lombardi e Tom Landry se destacaram na NFL
+- O trabalho em equipe entre treinadores e jogadores é fundamental para o sucesso de um time
 
-Slide 10:
-Título: Ferramentas auxiliares
+Slide 10: 
+Título: A NFL no Brasil
 Tópicos:
-- IDEs (Ambientes de Desenvolvimento Integrado)
-- Depuradores (debuggers)
-- Perfis de desempenho (profilers)
+- A NFL tem conquistado cada vez mais fãs no Brasil, com transmissões na TV e nas redes sociais
+- Eventos como o NFL Experience e o Draft Party proporcionam experiências únicas aos brasileiros apaixonados por futebol americano
+- A presença de jogadores brasileiros na liga, como Cairo Santos e Durval Queiroz Neto, aumentou o interesse pelo esporte no país
 
-Slide 11:
-Título: Desafios na construção de compiladores
+Slide 11: 
+Título: A tecnologia na NFL
 Tópicos:
-- Lidar com ambiguidades na linguagem
-- Otimização de código eficiente
-- Suporte a múltiplas plataformas
+- A NFL utiliza tecnologia avançada para aprimorar a experiência dos jogadores e dos espectadores
+- Equipamentos de última geração, análise de dados e transmissões em realidade virtual são algumas das inovações adotadas pela liga
+Imagem
 
-Slide 12:
-Título: Futuro dos compiladores
+Slide 12: 
+Título: A NFL e a comunidade
 Tópicos:
-- Avanços em otimização de código
-- Aumento da integração com IDEs
-- Suporte a novas linguagens de programação
+- A NFL promove ações sociais e campanhas de responsabilidade social em parceria com instituições de caridade
+- Jogadores e times se envolvem em projetos comunitários, contribuindo para o desenvolvimento de crianças e jovens
+- A liga busca utilizar sua influência para gerar impacto positivo na sociedade
 
-Slide 13:
-Título: Conclusão
+Slide 13: 
+Título: O futuro da NFL
 Tópicos:
-- Compiladores desempenham papel fundamental na programação
-- Processo de compilação é complexo e exige várias etapas
-- Importância de conhecer o funcionamento dos compiladores para programadores
+- A NFL busca constantemente inovar e se adaptar às novas tendências do esporte e da sociedade
+- O crescimento da liga a nível internacional e a expansão do futebol americano para outros países são desafios e oportunidades para o futuro
+- A paixão dos torcedores e a competitividade dos times garantem que a NFL continue sendo a liga de futebol americano mais popular do mundo
 
-Slide 14:
+Slide 14: 
 Título: Referências
 Tópicos:
-- Livros sobre compiladores
-- Artigos acadêmicos
-- Sites especializados em programação e compiladores
-
-Slide 15:
-Título: Perguntas
-Tópicos:
-- Momento para esclarecer dúvidas
-- Discussão sobre o tema
-- Agradecimentos. 
-
-OBS: Você mesmo poderá inserir as imagens ilustrativas em cada slide.
+- National Football League (NFL)
+- ESPN
+- NFL Brasil
+Imagem
