@@ -1,103 +1,132 @@
 Slide 0: 
-Título: NFL - National Football League
-Autor: Tom Brady
+Título: NFL - National Football League 
+Autor: Tom Brady 
 
 Slide 1: 
-Título: O que é a NFL?
-Tópicos:
-- A NFL é a principal liga de futebol americano dos Estados Unidos
-- Fundada em 1920, é atualmente composta por 32 times
-- A liga é dividida em duas conferências: a National Football Conference (NFC) e a American Football Conference (AFC)
+Título: O que é a NFL? 
+Tópicos: 
+- A National Football League é a principal liga de futebol americano dos Estados Unidos 
+- Fundada em 1920 
+- Atualmente conta com 32 times 
 
 Slide 2: 
-Título: História da NFL
-Tópicos:
-- A NFL teve origem a partir da American Professional Football Association, fundada em 1920
-- O Super Bowl, final da NFL, é um dos eventos esportivos mais assistidos do mundo
-- Grandes jogadores e times marcaram a história da liga, como os Green Bay Packers e Dallas Cowboys
+Título: Estrutura da NFL 
+Tópicos: 
+- Dividida em duas conferências: AFC (American Football Conference) e NFC (National Football Conference) 
+- Cada conferência possui 4 divisões com 4 times em cada uma 
+- Temporada regular com 17 jogos, seguida dos playoffs 
 
 Slide 3: 
-Título: Principais posições de um time na NFL
-Tópicos:
-- Quarterback
-- Running back
-- Wide receiver
-Imagem
+Título: Jogadores e posições 
+Tópicos: 
+- Quarterback 
+- Running back 
+- Wide receiver 
+Imagem 
 
 Slide 4: 
-Título: O papel do Quarterback na NFL
-Tópicos:
-- O quarterback é o líder do ataque de um time
-- É responsável por lançar a bola para os recebedores e tomar as decisões táticas durante o jogo
-- Grandes quarterbacks da história da NFL incluem Tom Brady, Peyton Manning e Joe Montana
+Título: Principais times 
+Tópicos: 
+- New England Patriots 
+- Dallas Cowboys 
+- Green Bay Packers 
 
 Slide 5: 
-Título: Curiosidades sobre a NFL
-Tópicos:
-- O New England Patriots é o time com mais títulos de Super Bowl na história da liga
-- O Troféu Vince Lombardi é entregue ao campeão do Super Bowl
-- O Draft da NFL é o evento onde os times selecionam novos jogadores para seus elencos
+Título: Super Bowl 
+Tópicos: 
+- Final da NFL 
+- Disputado entre os campeões da AFC e NFC 
+- Evento de grande audiência mundial 
 
 Slide 6: 
-Título: Os estádios da NFL
-Tópicos:
-- A NFL conta com estádios icônicos, como o Lambeau Field, casa dos Green Bay Packers
-- Alguns estádios modernos contam com tecnologia de ponta e capacidade para dezenas de milhares de torcedores
-Imagem
+Título: Estádios icônicos 
+Tópicos: 
+- Lambeau Field 
+- Soldier Field 
+Imagem 
 
 Slide 7: 
-Título: O Pro Bowl
-Tópicos:
-- O Pro Bowl é o jogo das estrelas da NFL, onde os melhores jogadores da temporada se enfrentam
-- O evento é realizado na semana anterior ao Super Bowl
-- O Pro Bowl tem formatos diferentes ao longo dos anos, buscando sempre aumentar o interesse dos fãs
+Título: Recordes na NFL 
+Tópicos: 
+- Peyton Manning - maior número de touchdowns 
+- Jerry Rice - maior número de recepções 
+- Adam Vinatieri - maior número de field goals 
 
 Slide 8: 
-Título: As rivalidades na NFL
-Tópicos:
-- Rivalidades históricas como Green Bay Packers vs. Chicago Bears e Pittsburgh Steelers vs. Baltimore Ravens
-- Os jogos entre times da mesma divisão costumam ser os mais intensos
-- As rivalidades na NFL contribuem para o espírito competitivo e a paixão dos torcedores
+Título: Pro Bowl 
+Tópicos: 
+- Jogo das estrelas da NFL 
+- Realizado após o fim da temporada regular 
+- Confronto entre os melhores jogadores da AFC e NFC 
 
 Slide 9: 
-Título: A importância dos treinadores na NFL
-Tópicos:
-- Os treinadores de um time são responsáveis por desenvolver estratégias, organizar treinos e motivar os jogadores
-- Grandes nomes como Bill Belichick, Vince Lombardi e Tom Landry se destacaram na NFL
-- O trabalho em equipe entre treinadores e jogadores é fundamental para o sucesso de um time
+Título: Draft da NFL 
+Tópicos: 
+- Seleção de novos jogadores para os times 
+- Realizado anualmente 
+- Momento crucial para a renovação das equipes 
 
 Slide 10: 
-Título: A NFL no Brasil
-Tópicos:
-- A NFL tem conquistado cada vez mais fãs no Brasil, com transmissões na TV e nas redes sociais
-- Eventos como o NFL Experience e o Draft Party proporcionam experiências únicas aos brasileiros apaixonados por futebol americano
-- A presença de jogadores brasileiros na liga, como Cairo Santos e Durval Queiroz Neto, aumentou o interesse pelo esporte no país
+Título: Rivalidades históricas 
+Tópicos: 
+- Cowboys vs. Redskins 
+- Packers vs. Bears 
+- Steelers vs. Ravens 
 
 Slide 11: 
-Título: A tecnologia na NFL
-Tópicos:
-- A NFL utiliza tecnologia avançada para aprimorar a experiência dos jogadores e dos espectadores
-- Equipamentos de última geração, análise de dados e transmissões em realidade virtual são algumas das inovações adotadas pela liga
-Imagem
+Título: Cheerleaders 
+Tópicos: 
+- Presentes em muitos jogos da NFL 
+- Animam a torcida 
+- Parte tradicional das equipes 
 
 Slide 12: 
-Título: A NFL e a comunidade
-Tópicos:
-- A NFL promove ações sociais e campanhas de responsabilidade social em parceria com instituições de caridade
-- Jogadores e times se envolvem em projetos comunitários, contribuindo para o desenvolvimento de crianças e jovens
-- A liga busca utilizar sua influência para gerar impacto positivo na sociedade
+Título: Hall da Fama 
+Tópicos: 
+- Os grandes ícones da NFL 
+- Jogadores, treinadores e contribuintes 
+- Local de homenagem aos melhores da história 
 
 Slide 13: 
-Título: O futuro da NFL
-Tópicos:
-- A NFL busca constantemente inovar e se adaptar às novas tendências do esporte e da sociedade
-- O crescimento da liga a nível internacional e a expansão do futebol americano para outros países são desafios e oportunidades para o futuro
-- A paixão dos torcedores e a competitividade dos times garantem que a NFL continue sendo a liga de futebol americano mais popular do mundo
+Título: Regras do jogo 
+Tópicos: 
+- Touchdown 
+- Field goal 
+- Quarto down 
 
 Slide 14: 
-Título: Referências
-Tópicos:
-- National Football League (NFL)
-- ESPN
-- NFL Brasil
-Imagem
+Título: Lesões na NFL 
+Tópicos: 
+- Parte inevitável do esporte 
+- Cuidados médicos para os jogadores 
+- Preocupação constante da liga 
+
+Slide 15: 
+Título: Celebridades na NFL 
+Tópicos: 
+- Jay-Z 
+- Beyoncé 
+- Justin Timberlake 
+
+Slide 16: 
+Título: NFL e a cultura americana 
+Tópicos: 
+- Evento esportivo de grande importância 
+- Comerciais no Super Bowl 
+- Influência na moda e música 
+
+Slide 17: 
+Título: Futuro da NFL 
+Tópicos: 
+- Expansão para outros países 
+- Novas tecnologias 
+- Sustentabilidade e responsabilidade social 
+
+Slide 18: 
+Título: Obrigado! 
+Tópicos: 
+- Obrigado pela atenção 
+- Qualquer dúvida, estamos à disposição 
+- Tom Brady - autor da apresentação 
+
+Fim.

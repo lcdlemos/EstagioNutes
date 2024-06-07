@@ -65,6 +65,8 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
         caixa_topico = caixa_topicos.placeholders[1]
         caixa_topico.text = topicos[j].strip("- ""\n")
         j += 1
+        if topicos[0] == "\n":
+            topicos.pop(0)
         while topicos[j] != "\n":
             if "    -" in topicos[j]:
                 topico = caixa_topico.text_frame.add_paragraph()
@@ -99,7 +101,7 @@ def adicionar_slides(auto_apresentacao, texto, titulos, topicos, num_slides):
                     resposta = requisicao.json()
                     #url_image = resposta['results'][0]['urls']['small']
                     url_image = resposta['data'][0]['url']
-                    urllib.request.urlretrieve(url_image, "./imagem_url.jpeg")
+                    urllib.request.urlretrieve(url_image, f"./imagem_url{i}.jpeg")
                     
                     ima = Image.open(f"imagem_url{i}.jpeg")
                     ima = ima.resize((300, 200))
